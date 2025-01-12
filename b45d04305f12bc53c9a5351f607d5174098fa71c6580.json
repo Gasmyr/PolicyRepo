@@ -9,6 +9,11 @@
                     "description": "allow user gasmyr full access",
                     "creation_date": "2025-01-12T14:04:13.220552",
                     "policy_content": "QGlkKCJhbGxvdyB1c2VyIGdhc215ciBmdWxsIGFjY2VzcyIpCnBlcm1pdChwcmluY2lwYWwgPT0gSmFuczo6VXNlcjo6Imdhc215ciIsIGFjdGlvbiwgcmVzb3VyY2UpOw=="
+                },
+                "86e12dfd75153265bc369b1cd983dbeeec61a02fb006": {
+                    "description": "Allow all actions for all users on support application",
+                    "creation_date": "2025-01-12T14:06:19.005176",
+                    "policy_content": "QGlkKCJBbGxvdyBhbGwgYWN0aW9ucyBmb3IgYWxsIHVzZXJzIG9uIHN1cHBvcnQgYXBwbGljYXRpb24iKQpwZXJtaXQocHJpbmNpcGFsLCBhY3Rpb24sIHJlc291cmNlID09IEphbnM6OkFwcGxpY2F0aW9uOjoic3VwcG9ydCIpOw=="
                 }
             },
             "trusted_issuers": {},

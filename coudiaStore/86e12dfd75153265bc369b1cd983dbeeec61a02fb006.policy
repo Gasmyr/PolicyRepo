@@ -1,0 +1,2 @@
+@id("Allow all actions for all users on support application")
+permit(principal, action, resource == Jans::Application::"support");

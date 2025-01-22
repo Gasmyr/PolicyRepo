@@ -1,0 +1,6 @@
+@id("Sample policy")
+permit {
+    principal is Jans::User,
+    resource is Jans::Application,
+    action in [ "Jans::DELETE", "Jans::PUT"]
+};

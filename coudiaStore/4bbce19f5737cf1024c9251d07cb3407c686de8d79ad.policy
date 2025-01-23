@@ -1,5 +1,2 @@
-@id("now")
-permit (
-	principal,
-	action,
-	resource);
+@id("now updated")
+permit(principal, action, resource);

@@ -1,5 +1,2 @@
-@id("sample")
-permit (
-	principal,
-	action,
-	resource);
+@id("sample updated")
+permit(principal, action, resource);

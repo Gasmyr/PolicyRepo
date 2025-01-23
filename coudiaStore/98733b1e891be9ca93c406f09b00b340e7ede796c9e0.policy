@@ -1,6 +1,0 @@
-@Id("")
-permit (
-    principal,
-    action,
-    resource
-);

@@ -19,6 +19,11 @@
                     "description": "sample",
                     "creation_date": "2025-01-23T12:52:46.246988",
                     "policy_content": "QGlkKCJzYW1wbGUiKQpwZXJtaXQgKAoJcHJpbmNpcGFsLAoJYWN0aW9uLAoJcmVzb3VyY2UpOw=="
+                },
+                "8cd863cc075c3cf58be4278b63641a0f729f3953bad3": {
+                    "description": "sample",
+                    "creation_date": "2025-01-23T12:55:12.106428",
+                    "policy_content": "QGlkKCJzYW1wbGUiKQpwZXJtaXQgKAoJcHJpbmNpcGFsLAoJYWN0aW9uLAoJcmVzb3VyY2UpOw=="
                 }
             },
             "trusted_issuers": {},

@@ -1,2 +1,2 @@
-@id("now updated")
+@id("now updated plus")
 permit(principal, action, resource);

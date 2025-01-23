@@ -1,0 +1,6 @@
+@id("my custom policy")
+permit (
+	principal is coudiaStore::User,
+	action,
+	resource
+);

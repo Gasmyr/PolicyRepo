@@ -14,6 +14,11 @@
                     "description": "Allow all actions for all users on support application",
                     "creation_date": "2025-01-12T14:06:19.005176",
                     "policy_content": "QGlkKCJBbGxvdyBhbGwgYWN0aW9ucyBmb3IgYWxsIHVzZXJzIG9uIHN1cHBvcnQgYXBwbGljYXRpb24iKQpwZXJtaXQocHJpbmNpcGFsLCBhY3Rpb24sIHJlc291cmNlID09IEphbnM6OkFwcGxpY2F0aW9uOjoic3VwcG9ydCIpOw=="
+                },
+                "98733b1e891be9ca93c406f09b00b340e7ede796c9e0": {
+                    "description": "Policy created via Policy Designer",
+                    "creation_date": "2025-01-23T08:48:00.163830",
+                    "policy_content": "QElkKCIiKQpwZXJtaXQgKAogICAgcHJpbmNpcGFsLAogICAgYWN0aW9uLAogICAgcmVzb3VyY2UKKTs="
                 }
             },
             "trusted_issuers": {},

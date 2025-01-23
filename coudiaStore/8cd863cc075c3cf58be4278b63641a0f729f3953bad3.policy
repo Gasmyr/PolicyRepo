@@ -1,5 +1,0 @@
-@id("sample")
-permit (
-	principal,
-	action,
-	resource);

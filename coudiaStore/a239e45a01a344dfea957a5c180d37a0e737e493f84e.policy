@@ -1,0 +1,6 @@
+@Id("")
+permit (
+    principal,
+    action == Jans::Action::"DELETE",
+    resource
+);

@@ -24,6 +24,11 @@
                     "description": "now updated",
                     "creation_date": "2025-01-23T13:01:16.728341",
                     "policy_content": "QGlkKCJub3cgdXBkYXRlZCIpCnBlcm1pdChwcmluY2lwYWwsIGFjdGlvbiwgcmVzb3VyY2UpOw=="
+                },
+                "04c29d11035f84a03a9b0889b5d9364908ec1986e9f5": {
+                    "description": "my custom policy",
+                    "creation_date": "2025-01-23T17:01:47.269642",
+                    "policy_content": "QGlkKCJteSBjdXN0b20gcG9saWN5IikKcGVybWl0ICgKCXByaW5jaXBhbCBpcyBjb3VkaWFTdG9yZTo6VXNlciwKCWFjdGlvbiwKCXJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {},

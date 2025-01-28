@@ -1,0 +1,2 @@
+@id("allow_one")
+permit(principal is Jans::Workload, action == Jans::Action::"GET", resource is Jans::HTTP_Request);

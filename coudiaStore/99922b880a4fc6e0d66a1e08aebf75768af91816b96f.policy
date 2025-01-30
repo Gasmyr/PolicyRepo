@@ -1,6 +1,0 @@
-@id("MULTIPLE")
-permit (
-	principal is Jans::Workload,
-	action in [ Jans::Action::"DELETE", Jans::Action::"PUT"],
-	resource is Jans::HTTP_Request
-);

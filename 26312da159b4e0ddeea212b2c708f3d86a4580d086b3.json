@@ -9,6 +9,11 @@
                     "description": "Describe the policy here",
                     "creation_date": "2025-02-11T15:29:52.678080",
                     "policy_content": "QGlkKCJEZXNjcmliZSB0aGUgcG9saWN5IGhlcmUiKQpwZXJtaXQgKAoJcHJpbmNpcGFsLAoJYWN0aW9uLAoJcmVzb3VyY2UKKTs="
+                },
+                "1ebab45bc9cab98485831cbaad9d2fe80ca969dcecc2": {
+                    "description": "allow_one",
+                    "creation_date": "2025-02-11T15:36:14.801947",
+                    "policy_content": "QGlkKCJhbGxvd19vbmUiKQpwZXJtaXQoCiAgcHJpbmNpcGFsIGlzIGdhdGV3YXlEZW1vOjpXb3JrbG9hZCwKICBhY3Rpb24gPT0gZ2F0ZXdheURlbW86OkFjdGlvbjo6IkdFVCIsCiAgcmVzb3VyY2UgaXMgZ2F0ZXdheURlbW86OkhUVFBfUmVxdWVzdAopCndoZW4gewogICAgcHJpbmNpcGFsIGhhcyBhY2Nlc3NfdG9rZW4uc2NvcGUgJiYKICAgIHByaW5jaXBhbC5hY2Nlc3NfdG9rZW4uc2NvcGUuY29udGFpbnMoInByb2ZpbGUiKQp9Ow=="
                 }
             },
             "trusted_issuers": {},

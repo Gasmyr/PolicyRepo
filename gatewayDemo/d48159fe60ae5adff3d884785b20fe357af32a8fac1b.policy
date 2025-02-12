@@ -1,2 +1,0 @@
-@id("testing something")
-permit(principal, action, resource);

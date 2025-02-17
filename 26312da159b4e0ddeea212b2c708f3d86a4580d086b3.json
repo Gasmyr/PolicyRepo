@@ -12,41 +12,6 @@
                 }
             },
             "trusted_issuers": {
-                "22f11a658aeb0202ff5ff517e9d382e6212de981e1ab": {
-                    "name": "gluu",
-                    "description": "dscription",
-                    "openid_configuration_endpoint": "https://myserver.com/.well-known/openid-configuration",
-                    "tokens_metadata": {
-                        "access_tokens": {
-                            "trusted": true,
-                            "principal_identifier": "",
-                            "user_id": "",
-                            "role_mapping": "",
-                            "claim_mapping": {}
-                        },
-                        "id_tokens": {
-                            "trusted": false,
-                            "principal_identifier": "",
-                            "user_id": "",
-                            "role_mapping": "",
-                            "claim_mapping": {}
-                        },
-                        "userinfo_tokens": {
-                            "trusted": false,
-                            "principal_identifier": "",
-                            "user_id": "",
-                            "role_mapping": "",
-                            "claim_mapping": {}
-                        },
-                        "tx_tokens": {
-                            "trusted": false,
-                            "principal_identifier": "",
-                            "user_id": "",
-                            "role_mapping": "",
-                            "claim_mapping": {}
-                        }
-                    }
-                },
                 "4b59c5a68e02a33c4032e5b9c41d7aa07e0c55785573": {
                     "name": "MyServer",
                     "description": "description",

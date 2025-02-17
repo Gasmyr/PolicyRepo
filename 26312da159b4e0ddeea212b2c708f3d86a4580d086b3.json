@@ -15,7 +15,7 @@
                 "22f11a658aeb0202ff5ff517e9d382e6212de981e1ab": {
                     "name": "gluu",
                     "description": "dscription",
-                    "openid_configuration_endpoint": "https:://example.com",
+                    "openid_configuration_endpoint": "https://myserver.com/.well-known/openid-configuration",
                     "tokens_metadata": {
                         "access_tokens": {
                             "trusted": true,

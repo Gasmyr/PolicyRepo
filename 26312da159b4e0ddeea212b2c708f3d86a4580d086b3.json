@@ -13,13 +13,13 @@
             },
             "trusted_issuers": {
                 "4b59c5a68e02a33c4032e5b9c41d7aa07e0c55785573": {
-                    "name": "MyServer",
-                    "description": "description",
+                    "name": "MyServerUpdated",
+                    "description": "description updated",
                     "openid_configuration_endpoint": "https://myserver.com/.well-known/openid-configuration",
                     "tokens_metadata": {
                         "access_tokens": {
                             "trusted": true,
-                            "principal_identifier": "uid",
+                            "principal_identifier": "uiud",
                             "user_id": "name",
                             "role_mapping": "",
                             "claim_mapping": {

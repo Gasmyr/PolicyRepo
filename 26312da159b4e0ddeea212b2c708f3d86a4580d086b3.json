@@ -51,13 +51,13 @@
                     }
                 },
                 "390fee9ef5138f5c5bffc9d9cd426afaf8f5b3835998": {
-                    "name": "Sample",
-                    "description": "description",
+                    "name": "Sample updated",
+                    "description": "description up",
                     "openid_configuration_endpoint": "https://github.com/orgs",
                     "tokens_metadata": {
                         "access_tokens": {
                             "trusted": true,
-                            "principal_identifier": "id",
+                            "principal_identifier": "uuid",
                             "user_id": "uid",
                             "role_mapping": "",
                             "claim_mapping": {}

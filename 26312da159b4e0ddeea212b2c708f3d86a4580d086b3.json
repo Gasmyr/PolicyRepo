@@ -19,7 +19,7 @@
                     "tokens_metadata": {
                         "access_tokens": {
                             "trusted": true,
-                            "principal_identifier": "uiud",
+                            "principal_identifier": "uuid",
                             "user_id": "name",
                             "role_mapping": "",
                             "claim_mapping": {

@@ -22,10 +22,7 @@
                             "principal_identifier": "uuid",
                             "user_id": "name",
                             "role_mapping": "",
-                            "claim_mapping": {
-                                "name": "username",
-                                "first": "firstName"
-                            }
+                            "claim_mapping": {}
                         },
                         "id_tokens": {
                             "trusted": false,

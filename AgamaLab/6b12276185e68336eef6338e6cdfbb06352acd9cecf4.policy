@@ -1,2 +1,0 @@
-@id("")
-permit(principal, action == AgamaLab::Action::"Edit", resource is AgamaLab::UIComponent) when { (principal["role"]) in ["admin", "developer"] };

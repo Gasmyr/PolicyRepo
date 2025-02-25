@@ -9,11 +9,6 @@
                     "description": "allow all actions",
                     "creation_date": "2025-02-24T14:55:53.090584",
                     "policy_content": "QGlkKCJhbGxvdyBhbGwgYWN0aW9ucyIpCnBlcm1pdChwcmluY2lwYWwsIGFjdGlvbiwgcmVzb3VyY2UpOw=="
-                },
-                "6b12276185e68336eef6338e6cdfbb06352acd9cecf4": {
-                    "description": "",
-                    "creation_date": "2025-02-25T00:41:35.485703",
-                    "policy_content": "QGlkKCIiKQpwZXJtaXQocHJpbmNpcGFsLCBhY3Rpb24gPT0gQWdhbWFMYWI6OkFjdGlvbjo6IkVkaXQiLCByZXNvdXJjZSBpcyBBZ2FtYUxhYjo6VUlDb21wb25lbnQpIHdoZW4geyAocHJpbmNpcGFsWyJyb2xlIl0pIGluIFsiYWRtaW4iLCAiZGV2ZWxvcGVyIl0gfTs="
                 }
             },
             "trusted_issuers": {

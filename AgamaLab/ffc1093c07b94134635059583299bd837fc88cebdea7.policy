@@ -1,2 +1,0 @@
-@id("allow all actions")
-permit(principal, action, resource);

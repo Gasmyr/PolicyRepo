@@ -1,7 +1,7 @@
-@id("Any admin user can access any feature.")
+@id("Any admin user can access(use) any feature.")
 permit(
   principal,
-  action == AgamaLab::Action::"View",
+  action == AgamaLab::Action::"Use",
   resource
 )
 when {

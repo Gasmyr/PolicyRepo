@@ -8,7 +8,7 @@
                 "65d1a7d464a4c94950d93ffa28058a4d696b4bfdf104": {
                     "description": "Any admin user can access any feature.",
                     "creation_date": "2025-02-28T16:20:29.084779",
-                    "policy_content": "QGlkKCJBbnkgYWRtaW4gdXNlciBjYW4gYWNjZXNzIGFueSBmZWF0dXJlLiIpCnBlcm1pdCgKICBwcmluY2lwYWwsCiAgYWN0aW9uID09IEFnYW1hTGFiOjpBY3Rpb246OiJWaWV3IiwKICByZXNvdXJjZQopCndoZW4gewogIHByaW5jaXBhbC5yb2xlLmNvbnRhaW5zKCJhZG1pbiIpCn07"
+                    "policy_content": "QGlkKCJBbnkgYWRtaW4gdXNlciBjYW4gYWNjZXNzIGFueSBmZWF0dXJlLiIpCnBlcm1pdCgKICBwcmluY2lwYWwsCiAgYWN0aW9uID09IEFnYW1hTGFiOjpBY3Rpb246OiJWaWV3IiwKICByZXNvdXJjZQopCndoZW4gewogIHByaW5jaXBhbC5yb2xlLmNvbnRhaW5zKCJBZG1pbiIpCn07"
                 }
             },
             "trusted_issuers": {

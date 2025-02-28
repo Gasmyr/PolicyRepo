@@ -5,11 +5,6 @@
             "name": "AgamaLab",
             "description": "UI policies for AgamaLab application",
             "policies": {
-                "ffc1093c07b94134635059583299bd837fc88cebdea7": {
-                    "description": "allow all actions",
-                    "creation_date": "2025-02-24T14:55:53.090584",
-                    "policy_content": "QGlkKCJhbGxvdyBhbGwgYWN0aW9ucyIpCnBlcm1pdChwcmluY2lwYWwsIGFjdGlvbiwgcmVzb3VyY2UpOw=="
-                },
                 "65d1a7d464a4c94950d93ffa28058a4d696b4bfdf104": {
                     "description": "Any admin user can access any feature.",
                     "creation_date": "2025-02-28T16:20:29.084779",

@@ -5,5 +5,5 @@ permit(
   resource
 )
 when {
-  principal.role.contains("admin")
+  principal.role.contains("Admin")
 };

@@ -1,9 +1,8 @@
-@id("Any admin user can access(use) any feature.")
-permit(
+@id("Allow users with Admin role to view all UI components")
+permit (
   principal,
   action == AgamaLab::Action::"View",
-  resource
-)
-when {
+  resource is AgamaLab::UIComponent
+) when {
   principal.role.contains("Admin")
 };

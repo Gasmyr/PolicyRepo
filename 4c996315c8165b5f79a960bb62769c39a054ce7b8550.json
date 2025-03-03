@@ -6,9 +6,9 @@
             "description": "UI policies for AgamaLab application",
             "policies": {
                 "65d1a7d464a4c94950d93ffa28058a4d696b4bfdf104": {
-                    "description": "Any admin user can access(use",
+                    "description": "Allow users with Admin role to view all UI components",
                     "creation_date": "2025-02-28T16:20:29.084779",
-                    "policy_content": "QGlkKCJBbnkgYWRtaW4gdXNlciBjYW4gYWNjZXNzKHVzZSkgYW55IGZlYXR1cmUuIikKcGVybWl0KAogIHByaW5jaXBhbCwKICBhY3Rpb24gPT0gQWdhbWFMYWI6OkFjdGlvbjo6IlZpZXciLAogIHJlc291cmNlCikKd2hlbiB7CiAgcHJpbmNpcGFsLnJvbGUuY29udGFpbnMoIkFkbWluIikKfTs="
+                    "policy_content": "QGlkKCJBbGxvdyB1c2VycyB3aXRoIEFkbWluIHJvbGUgdG8gdmlldyBhbGwgVUkgY29tcG9uZW50cyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsLAogIGFjdGlvbiA9PSBBZ2FtYUxhYjo6QWN0aW9uOjoiVmlldyIsCiAgcmVzb3VyY2UgaXMgQWdhbWFMYWI6OlVJQ29tcG9uZW50Cikgd2hlbiB7CiAgcHJpbmNpcGFsLnJvbGUuY29udGFpbnMoIkFkbWluIikKfTs="
                 }
             },
             "trusted_issuers": {

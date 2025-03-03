@@ -1,0 +1,7 @@
+permit (
+  principal,
+  action == AgamaLab::Action::"View",
+  resource in AgamaLab::UIComponentGroup::"explore"
+) when {
+  principal.role.contains("Admin") 
+};

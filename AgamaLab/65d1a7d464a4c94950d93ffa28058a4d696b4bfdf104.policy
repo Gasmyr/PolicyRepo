@@ -1,9 +1,9 @@
 @id("Any admin user can access(use) any feature.")
 permit(
   principal,
-  action == AgamaLab::Action::"Use",
+  action == AgamaLab::Action::"View",
   resource
 )
 when {
-  principal.role.contains("admin")
+  principal.role.contains("Admin")
 };

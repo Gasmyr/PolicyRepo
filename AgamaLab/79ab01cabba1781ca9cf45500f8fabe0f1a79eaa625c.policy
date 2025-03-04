@@ -1,9 +1,9 @@
-@id("Allow users with FlowDesigner role to access the FlowDesigner menu")
+@id("Allow users with PolicyDesigner role to access the FlowDesigner menu")
 permit (
   principal,
   action == AgamaLab::Action::"View",
-  resource == AgamaLab::UIComponent::"FlowDesigner"
+  resource == AgamaLab::UIComponent::"PolicyDesigner"
 )
 when {
-  principal.role.contains("FlowDesigner")
+  principal.role.contains("PolicyDesigner")
 };

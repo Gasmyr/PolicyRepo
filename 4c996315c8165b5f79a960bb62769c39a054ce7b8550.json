@@ -9,11 +9,6 @@
                     "description": "Allow users with Admin role to view all UI components",
                     "creation_date": "2025-02-28T16:20:29.084779",
                     "policy_content": "QGlkKCJBbGxvdyB1c2VycyB3aXRoIEFkbWluIHJvbGUgdG8gdmlldyBhbGwgVUkgY29tcG9uZW50cyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsLAogIGFjdGlvbiA9PSBBZ2FtYUxhYjo6QWN0aW9uOjoiVmlldyIsCiAgcmVzb3VyY2UgaXMgQWdhbWFMYWI6OlVJQ29tcG9uZW50Cikgd2hlbiB7CiAgcHJpbmNpcGFsLnJvbGUuY29udGFpbnMoIkFkbWluIikKfTs="
-                },
-                "3dfd1d2737deef96845775e36da1df0351431fcee482": {
-                    "description": "",
-                    "creation_date": "2025-03-03T15:46:40.477450",
-                    "policy_content": "cGVybWl0ICgKICBwcmluY2lwYWwsCiAgYWN0aW9uID09IEFnYW1hTGFiOjpBY3Rpb246OiJWaWV3IiwKICByZXNvdXJjZSBpbiBBZ2FtYUxhYjo6VUlDb21wb25lbnRHcm91cDo6ImV4cGxvcmUiCikgd2hlbiB7CiAgcHJpbmNpcGFsLnJvbGUuY29udGFpbnMoIkFkbWluIikgCn07"
                 }
             },
             "trusted_issuers": {

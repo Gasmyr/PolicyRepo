@@ -1,0 +1,9 @@
+@id("Allow users with FlowDesigner role to access the FlowDesigner menu")
+permit (
+  principal,
+  action == AgamaLab::Action::"View",
+  resource == AgamaLab::UIComponent::"FlowDesigner"
+)
+when {
+  principal.role.contains("FlowDesigner")
+};

@@ -9,6 +9,11 @@
                     "description": "Allow users with Admin role to view all UI components",
                     "creation_date": "2025-02-28T16:20:29.084779",
                     "policy_content": "QGlkKCJBbGxvdyB1c2VycyB3aXRoIEFkbWluIHJvbGUgdG8gdmlldyBhbGwgVUkgY29tcG9uZW50cyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsLAogIGFjdGlvbiA9PSBBZ2FtYUxhYjo6QWN0aW9uOjoiVmlldyIsCiAgcmVzb3VyY2UgaXMgQWdhbWFMYWI6OlVJQ29tcG9uZW50Cikgd2hlbiB7CiAgcHJpbmNpcGFsLnJvbGUuY29udGFpbnMoIkFkbWluIikKfTs="
+                },
+                "bed10c26c0708b1155cbf23e90455a5c43a1872f4327": {
+                    "description": "Allow users with AgamaLabAdmin role to view all UI components",
+                    "creation_date": "2025-03-04T19:30:30.677830",
+                    "policy_content": "QGlkKCJBbGxvdyB1c2VycyB3aXRoIEFnYW1hTGFiQWRtaW4gcm9sZSB0byB2aWV3IGFsbCBVSSBjb21wb25lbnRzIikKcGVybWl0ICgKICBwcmluY2lwYWwsCiAgYWN0aW9uID09IEFnYW1hTGFiOjpBY3Rpb246OiJWaWV3IiwKICByZXNvdXJjZSBpcyBBZ2FtYUxhYjo6VUlDb21wb25lbnQKKQp3aGVuIHsKICBwcmluY2lwYWwucm9sZS5jb250YWlucygiQWdhbWFMYWJBZG1pbiIpCn07"
                 }
             },
             "trusted_issuers": {

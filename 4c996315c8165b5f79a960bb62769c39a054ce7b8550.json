@@ -19,6 +19,11 @@
                     "description": "Allow users with FlowDesigner role to access the FlowDesigner menu",
                     "creation_date": "2025-03-04T19:33:32.031348",
                     "policy_content": "QGlkKCJBbGxvdyB1c2VycyB3aXRoIEZsb3dEZXNpZ25lciByb2xlIHRvIGFjY2VzcyB0aGUgRmxvd0Rlc2lnbmVyIG1lbnUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24gPT0gQWdhbWFMYWI6OkFjdGlvbjo6IlZpZXciLAogIHJlc291cmNlID09IEFnYW1hTGFiOjpVSUNvbXBvbmVudDo6IkZsb3dEZXNpZ25lciIKKQp3aGVuIHsKICBwcmluY2lwYWwucm9sZS5jb250YWlucygiRmxvd0Rlc2lnbmVyIikKfTs="
+                },
+                "79ab01cabba1781ca9cf45500f8fabe0f1a79eaa625c": {
+                    "description": "Allow users with FlowDesigner role to access the FlowDesigner menu",
+                    "creation_date": "2025-03-04T19:33:45.785111",
+                    "policy_content": "QGlkKCJBbGxvdyB1c2VycyB3aXRoIEZsb3dEZXNpZ25lciByb2xlIHRvIGFjY2VzcyB0aGUgRmxvd0Rlc2lnbmVyIG1lbnUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24gPT0gQWdhbWFMYWI6OkFjdGlvbjo6IlZpZXciLAogIHJlc291cmNlID09IEFnYW1hTGFiOjpVSUNvbXBvbmVudDo6IkZsb3dEZXNpZ25lciIKKQp3aGVuIHsKICBwcmluY2lwYWwucm9sZS5jb250YWlucygiRmxvd0Rlc2lnbmVyIikKfTs="
                 }
             },
             "trusted_issuers": {

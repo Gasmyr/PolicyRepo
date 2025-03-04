@@ -14,6 +14,11 @@
                     "description": "Allow users with AgamaLabAdmin role to view all UI components",
                     "creation_date": "2025-03-04T19:30:30.677830",
                     "policy_content": "QGlkKCJBbGxvdyB1c2VycyB3aXRoIEFnYW1hTGFiQWRtaW4gcm9sZSB0byB2aWV3IGFsbCBVSSBjb21wb25lbnRzIikKcGVybWl0ICgKICBwcmluY2lwYWwsCiAgYWN0aW9uID09IEFnYW1hTGFiOjpBY3Rpb246OiJWaWV3IiwKICByZXNvdXJjZSBpcyBBZ2FtYUxhYjo6VUlDb21wb25lbnQKKQp3aGVuIHsKICBwcmluY2lwYWwucm9sZS5jb250YWlucygiQWdhbWFMYWJBZG1pbiIpCn07"
+                },
+                "03720a2ae8c1f580cf8f04a17d7ce5738a6ae06a22fc": {
+                    "description": "Allow users with FlowDesigner role to access the FlowDesigner menu",
+                    "creation_date": "2025-03-04T19:33:32.031348",
+                    "policy_content": "QGlkKCJBbGxvdyB1c2VycyB3aXRoIEZsb3dEZXNpZ25lciByb2xlIHRvIGFjY2VzcyB0aGUgRmxvd0Rlc2lnbmVyIG1lbnUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24gPT0gQWdhbWFMYWI6OkFjdGlvbjo6IlZpZXciLAogIHJlc291cmNlID09IEFnYW1hTGFiOjpVSUNvbXBvbmVudDo6IkZsb3dEZXNpZ25lciIKKQp3aGVuIHsKICBwcmluY2lwYWwucm9sZS5jb250YWlucygiRmxvd0Rlc2lnbmVyIikKfTs="
                 }
             },
             "trusted_issuers": {

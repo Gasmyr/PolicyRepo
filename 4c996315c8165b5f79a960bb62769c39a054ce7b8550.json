@@ -24,6 +24,11 @@
                     "description": "Allow users with PolicyDesigner role to access the FlowDesigner menu",
                     "creation_date": "2025-03-04T19:33:45.785111",
                     "policy_content": "QGlkKCJBbGxvdyB1c2VycyB3aXRoIFBvbGljeURlc2lnbmVyIHJvbGUgdG8gYWNjZXNzIHRoZSBGbG93RGVzaWduZXIgbWVudSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsLAogIGFjdGlvbiA9PSBBZ2FtYUxhYjo6QWN0aW9uOjoiVmlldyIsCiAgcmVzb3VyY2UgPT0gQWdhbWFMYWI6OlVJQ29tcG9uZW50OjoiUG9saWN5RGVzaWduZXIiCikKd2hlbiB7CiAgcHJpbmNpcGFsLnJvbGUuY29udGFpbnMoIlBvbGljeURlc2lnbmVyIikKfTs="
+                },
+                "2ca8be658ac2823a7ea956e44377765614a8b3e80f9d": {
+                    "description": "Allow users with FlowExplorer role to access the Explore menu",
+                    "creation_date": "2025-03-04T19:56:53.369771",
+                    "policy_content": "QGlkKCJBbGxvdyB1c2VycyB3aXRoIEZsb3dFeHBsb3JlciByb2xlIHRvIGFjY2VzcyB0aGUgRXhwbG9yZSBtZW51IikKcGVybWl0ICgKICBwcmluY2lwYWwsCiAgYWN0aW9uID09IEFnYW1hTGFiOjpBY3Rpb246OiJWaWV3IiwKICByZXNvdXJjZSA9PSBBZ2FtYUxhYjo6VUlDb21wb25lbnQ6OiJGbG93RXhwbG9yZSIKKQp3aGVuIHsKICBwcmluY2lwYWwucm9sZS5jb250YWlucygiRmxvd0V4cGxvcmVyIikKfTs="
                 }
             },
             "trusted_issuers": {

@@ -3,6 +3,9 @@ permit (
   principal,
   action == AgamaLab::Action::"View",
   resource is AgamaLab::UIComponent
-) when {
-  principal.role.contains("Admin")
+)
+when {
+  principal has id_token && 
+  principal.id_token has username && 
+  principal.id_token.username == "gasmyrmougang@yahoo.fr"
 };

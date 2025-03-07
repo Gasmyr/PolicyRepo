@@ -8,7 +8,7 @@
                 "65d1a7d464a4c94950d93ffa28058a4d696b4bfdf104": {
                     "description": "Allow users with Admin role to view all UI components",
                     "creation_date": "2025-02-28T16:20:29.084779",
-                    "policy_content": "QGlkKCJBbGxvdyB1c2VycyB3aXRoIEFkbWluIHJvbGUgdG8gdmlldyBhbGwgVUkgY29tcG9uZW50cyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsLAogIGFjdGlvbiA9PSBBZ2FtYUxhYjo6QWN0aW9uOjoiVmlldyIsCiAgcmVzb3VyY2UgaXMgQWdhbWFMYWI6OlVJQ29tcG9uZW50Cikgd2hlbiB7CiAgcHJpbmNpcGFsLnJvbGUuY29udGFpbnMoIkFkbWluIikKfTs="
+                    "policy_content": "QGlkKCJBbGxvdyB1c2VycyB3aXRoIEFkbWluIHJvbGUgdG8gdmlldyBhbGwgVUkgY29tcG9uZW50cyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsLAogIGFjdGlvbiA9PSBBZ2FtYUxhYjo6QWN0aW9uOjoiVmlldyIsCiAgcmVzb3VyY2UgaXMgQWdhbWFMYWI6OlVJQ29tcG9uZW50CikKd2hlbiB7CiAgcHJpbmNpcGFsIGhhcyBpZF90b2tlbiAmJiAKICBwcmluY2lwYWwuaWRfdG9rZW4gaGFzIHVzZXJuYW1lICYmIAogIHByaW5jaXBhbC5pZF90b2tlbi51c2VybmFtZSA9PSAiZ2FzbXlybW91Z2FuZ0B5YWhvby5mciIKfTs="
                 },
                 "bed10c26c0708b1155cbf23e90455a5c43a1872f4327": {
                     "description": "Allow users with AgamaLabAdmin role to view all UI components",

@@ -53,7 +53,7 @@
                         },
                         "userinfo_tokens": {
                             "trusted": true,
-                            "principal_identifier": "",
+                            "principal_identifier": "sub",
                             "user_id": "",
                             "role_mapping": "",
                             "claim_mapping": {}

@@ -1,6 +1,0 @@
-@id("Allow all users")
-permit (
-	principal,
-	action,
-	resource
-);

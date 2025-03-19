@@ -2,7 +2,7 @@
     "cedar_version": "4.3.0",
     "policy_stores": {
         "434a7eed9f7bb98812f9001fca88524427008f332e0e": {
-            "name": "TodoStore",
+            "name": "Jans",
             "description": "",
             "policies": {},
             "trusted_issuers": {},

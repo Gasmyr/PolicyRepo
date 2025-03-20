@@ -14,11 +14,6 @@
                     "description": "Only gluu staff can access todo item details",
                     "creation_date": "2025-03-20T06:07:24.976498",
                     "policy_content": "QGlkKCJPbmx5IGdsdXUgc3RhZmYgY2FuIGFjY2VzcyB0b2RvIGl0ZW0gZGV0YWlscyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uID09IFRvZG9BcHA6OkFjdGlvbjo6IlZpZXdEZXRhaWxzIiwKICByZXNvdXJjZSBpcyBUb2RvQXBwOjpUb2RvSXRlbQopCndoZW4gewogICBwcmluY2lwYWwgaGFzIHVzZXJpbmZvX3Rva2VuICYmIAogICBwcmluY2lwYWwudXNlcmluZm9fdG9rZW4gaGFzIGVtYWlsCn07"
-                },
-                "101476e642177cdbe594b3a9716d2eab9dde8a0aa993": {
-                    "description": "Only gluu staff can access todo item details",
-                    "creation_date": "2025-03-20T06:07:42.144442",
-                    "policy_content": "QGlkKCJPbmx5IGdsdXUgc3RhZmYgY2FuIGFjY2VzcyB0b2RvIGl0ZW0gZGV0YWlscyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uID09IFRvZG9BcHA6OkFjdGlvbjo6IlZpZXdEZXRhaWxzIiwKICByZXNvdXJjZSBpcyBUb2RvQXBwOjpUb2RvSXRlbQopCndoZW4gewogICBwcmluY2lwYWwgaGFzIHVzZXJpbmZvX3Rva2VuICYmIAogICBwcmluY2lwYWwudXNlcmluZm9fdG9rZW4gaGFzIGVtYWlsCn07"
                 }
             },
             "trusted_issuers": {},

@@ -19,6 +19,11 @@
                     "description": "Only the owner of a TodoItem can edit it",
                     "creation_date": "2025-03-20T07:38:15.610172",
                     "policy_content": "QGlkKCJPbmx5IHRoZSBvd25lciBvZiBhIFRvZG9JdGVtIGNhbiBlZGl0IGl0IikKcGVybWl0ICgKICBwcmluY2lwYWwgaXMgSmFuczo6VXNlciwKICBhY3Rpb24gID09IFRvZG9BcHA6OkFjdGlvbjo6IlVwZGF0ZSIsCiAgcmVzb3VyY2UgaXMgVG9kb0FwcDo6VG9kb0l0ZW0KKQp3aGVuIHsKICBwcmluY2lwYWwgaGFzIHVzZXJpbmZvX3Rva2VuICYmCiAgcHJpbmNpcGFsLnVzZXJpbmZvX3Rva2VuIGhhcyBlbWFpbCAmJgogIHByaW5jaXBhbC51c2VyaW5mb190b2tlbi5lbWFpbCA9PSByZXNvdXJjZS5hdXRob3IKfTs="
+                },
+                "21836c3e9fae84d227a48dea109112e75be3136fb50a": {
+                    "description": "Only the owner of a TodoItem can mark it as completed and only when it is not yet completed",
+                    "creation_date": "2025-03-20T08:52:16.483810",
+                    "policy_content": "QGlkKCJPbmx5IHRoZSBvd25lciBvZiBhIFRvZG9JdGVtIGNhbiBtYXJrIGl0IGFzIGNvbXBsZXRlZCBhbmQgb25seSB3aGVuIGl0IGlzIG5vdCB5ZXQgY29tcGxldGVkIikKcGVybWl0ICgKICBwcmluY2lwYWwgaXMgSmFuczo6VXNlciwKICBhY3Rpb24gID09IFRvZG9BcHA6OkFjdGlvbjo6Ik1hcmtDb21wbGV0ZSIsCiAgcmVzb3VyY2UgaXMgVG9kb0FwcDo6VG9kb0l0ZW0KKQp3aGVuIHsKICBwcmluY2lwYWwgaGFzIHVzZXJpbmZvX3Rva2VuICYmCiAgcHJpbmNpcGFsLnVzZXJpbmZvX3Rva2VuIGhhcyBlbWFpbCAmJgogIHByaW5jaXBhbC51c2VyaW5mb190b2tlbi5lbWFpbCA9PSByZXNvdXJjZS5hdXRob3IgJiYKICByZXNvdXJjZS5jb21wbGV0ZWQgPT0gZmFsc2UKfTs="
                 }
             },
             "trusted_issuers": {},

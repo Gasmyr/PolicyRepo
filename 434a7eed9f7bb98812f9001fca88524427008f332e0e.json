@@ -18,7 +18,7 @@
                 "331e35712d0b7cfb18b9f109ca2507e5d15029a64654": {
                     "description": "Only the owner of a TodoItem can edit it",
                     "creation_date": "2025-03-20T07:38:15.610172",
-                    "policy_content": "QGlkKCJPbmx5IHRoZSBvd25lciBvZiBhIFRvZG9JdGVtIGNhbiBlZGl0IGl0IikKcGVybWl0ICgKICBwcmluY2lwYWwgaXMgSmFuczo6VXNlciwKICBhY3Rpb24gID09IFRvZG9BcHA6OkFjdGlvbjo6IkRlbGV0ZSIsCiAgcmVzb3VyY2UgaXMgVG9kb0FwcDo6VG9kb0l0ZW0KKQp3aGVuIHsKICBwcmluY2lwYWwgaGFzIHVzZXJpbmZvX3Rva2VuICYmCiAgcHJpbmNpcGFsLnVzZXJpbmZvX3Rva2VuIGhhcyBlbWFpbCAmJgogIHByaW5jaXBhbC51c2VyaW5mb190b2tlbi5lbWFpbCA9PSByZXNvdXJjZS5hdXRob3IKfTs="
+                    "policy_content": "QGlkKCJPbmx5IHRoZSBvd25lciBvZiBhIFRvZG9JdGVtIGNhbiBlZGl0IGl0IikKcGVybWl0ICgKICBwcmluY2lwYWwgaXMgSmFuczo6VXNlciwKICBhY3Rpb24gID09IFRvZG9BcHA6OkFjdGlvbjo6IlVwZGF0ZSIsCiAgcmVzb3VyY2UgaXMgVG9kb0FwcDo6VG9kb0l0ZW0KKQp3aGVuIHsKICBwcmluY2lwYWwgaGFzIHVzZXJpbmZvX3Rva2VuICYmCiAgcHJpbmNpcGFsLnVzZXJpbmZvX3Rva2VuIGhhcyBlbWFpbCAmJgogIHByaW5jaXBhbC51c2VyaW5mb190b2tlbi5lbWFpbCA9PSByZXNvdXJjZS5hdXRob3IKfTs="
                 }
             },
             "trusted_issuers": {},

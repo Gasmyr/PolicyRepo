@@ -1,4 +1,4 @@
-@id("Only gluu staff can and add todo item and view todo item details")
+@id("Only gluu staff can add todo item and view todo item details")
 permit (
   principal is Jans::User,
   action  in [TodoApp::Action::"ViewDetails",

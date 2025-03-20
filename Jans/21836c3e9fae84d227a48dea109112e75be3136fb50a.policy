@@ -1,0 +1,12 @@
+@id("Only the owner of a TodoItem can mark it as completed and only when it is not yet completed")
+permit (
+  principal is Jans::User,
+  action  == TodoApp::Action::"MarkComplete",
+  resource is TodoApp::TodoItem
+)
+when {
+  principal has userinfo_token &&
+  principal.userinfo_token has email &&
+  principal.userinfo_token.email == resource.author &&
+  resource.completed == false
+};

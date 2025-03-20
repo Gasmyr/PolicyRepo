@@ -1,7 +1,7 @@
 @id("Only the owner of a TodoItem can edit it")
 permit (
   principal is Jans::User,
-  action  == TodoApp::Action::"Delete",
+  action  == TodoApp::Action::"Update",
   resource is TodoApp::TodoItem
 )
 when {

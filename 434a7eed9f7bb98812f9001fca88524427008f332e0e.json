@@ -5,11 +5,6 @@
             "name": "Jans",
             "description": "",
             "policies": {
-                "33cc93eae8b75240bc64e94e3684309cc00cf0a19a85": {
-                    "description": "Only gluu staff can access todo item details",
-                    "creation_date": "2025-03-20T06:16:49.045426",
-                    "policy_content": "QGlkKCJPbmx5IGdsdXUgc3RhZmYgY2FuIGFjY2VzcyB0b2RvIGl0ZW0gZGV0YWlscyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uID09IFRvZG9BcHA6OkFjdGlvbjo6IlZpZXdEZXRhaWxzIiwKICByZXNvdXJjZSBpcyBUb2RvQXBwOjpUb2RvSXRlbQopCndoZW4gewogICBwcmluY2lwYWwgaGFzIHVzZXJpbmZvX3Rva2VuICYmCiAgIHByaW5jaXBhbC51c2VyaW5mb190b2tlbiBoYXMgZW1haWwgJiYKICAgcHJpbmNpcGFsLnVzZXJpbmZvX3Rva2VuLmVtYWlsIGxpa2UgIipnbHV1Lm9yZyIKfTs="
-                },
                 "a5595bfa79e2ce63e32b656c09e05837c021a44058fb": {
                     "description": "Only gluu staff can access todo item details",
                     "creation_date": "2025-03-20T06:53:30.488317",

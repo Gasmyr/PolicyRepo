@@ -1,0 +1,10 @@
+@id("Only gluu staff can access todo item details")
+permit (
+  principal is Jans::User,
+  action == TodoApp::Action::"ViewDetails",
+  resource is TodoApp::TodoItem
+)
+when {
+   principal has userinfo_token && 
+   principal.userinfo_token has email
+};

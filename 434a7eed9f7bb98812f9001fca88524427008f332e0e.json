@@ -24,6 +24,11 @@
                     "description": "Only the owner of a TodoItem can mark it as completed and only when it is not yet completed",
                     "creation_date": "2025-03-20T08:52:16.483810",
                     "policy_content": "QGlkKCJPbmx5IHRoZSBvd25lciBvZiBhIFRvZG9JdGVtIGNhbiBtYXJrIGl0IGFzIGNvbXBsZXRlZCBhbmQgb25seSB3aGVuIGl0IGlzIG5vdCB5ZXQgY29tcGxldGVkIikKcGVybWl0ICgKICBwcmluY2lwYWwgaXMgSmFuczo6VXNlciwKICBhY3Rpb24gID09IFRvZG9BcHA6OkFjdGlvbjo6Ik1hcmtDb21wbGV0ZSIsCiAgcmVzb3VyY2UgaXMgVG9kb0FwcDo6VG9kb0l0ZW0KKQp3aGVuIHsKICBwcmluY2lwYWwgaGFzIHVzZXJpbmZvX3Rva2VuICYmCiAgcHJpbmNpcGFsLnVzZXJpbmZvX3Rva2VuIGhhcyBlbWFpbCAmJgogIHByaW5jaXBhbC51c2VyaW5mb190b2tlbi5lbWFpbCA9PSByZXNvdXJjZS5hdXRob3IgJiYKICByZXNvdXJjZS5jb21wbGV0ZWQgPT0gZmFsc2UKfTs="
+                },
+                "6597f3590f492cec3673bf6aca6a8255b0bf34656f7d": {
+                    "description": "The todo list is accessible only during the working hours",
+                    "creation_date": "2025-03-20T10:23:10.330465",
+                    "policy_content": "QGlkKCJUaGUgdG9kbyBsaXN0IGlzIGFjY2Vzc2libGUgb25seSBkdXJpbmcgdGhlIHdvcmtpbmcgaG91cnMiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpcyBKYW5zOjpVc2VyLAogIGFjdGlvbiA9PSBUb2RvQXBwOjpBY3Rpb246OiJVc2UiLAogIHJlc291cmNlIGlzIFRvZG9BcHA6OlRvZG9MaXN0CikKd2hlbiB7CiAgICBjb250ZXh0LmN1cnJlbnRIb3VyID49IDA3ICYmIGNvbnRleHQuY3VycmVudEhvdXIgPD0gMjAKfTs="
                 }
             },
             "trusted_issuers": {},

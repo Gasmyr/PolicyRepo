@@ -9,6 +9,11 @@
                     "description": "Only gluu staff can add todo item and view todo item details",
                     "creation_date": "2025-03-20T06:53:30.488317",
                     "policy_content": "QGlkKCJPbmx5IGdsdXUgc3RhZmYgY2FuIGFkZCB0b2RvIGl0ZW0gYW5kIHZpZXcgdG9kbyBpdGVtIGRldGFpbHMiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpcyBKYW5zOjpVc2VyLAogIGFjdGlvbiAgaW4gW1RvZG9BcHA6OkFjdGlvbjo6IlZpZXdEZXRhaWxzIiwKICBUb2RvQXBwOjpBY3Rpb246OiJBZGQiXSwKICByZXNvdXJjZSBpcyBUb2RvQXBwOjpUb2RvSXRlbQopCndoZW4gewogICBwcmluY2lwYWwgaGFzIHVzZXJpbmZvX3Rva2VuICYmCiAgIHByaW5jaXBhbC51c2VyaW5mb190b2tlbiBoYXMgZW1haWwgJiYKICAgcHJpbmNpcGFsLnVzZXJpbmZvX3Rva2VuLmVtYWlsIGxpa2UgIipnbHV1Lm9yZyIKfTs="
+                },
+                "89ef9eebbf659469cf9662719ed1c92c9993563edba8": {
+                    "description": "Only the owner of a TodoItem can delete it",
+                    "creation_date": "2025-03-20T07:34:14.230703",
+                    "policy_content": "QGlkKCJPbmx5IHRoZSBvd25lciBvZiBhIFRvZG9JdGVtIGNhbiBkZWxldGUgaXQiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpcyBKYW5zOjpVc2VyLAogIGFjdGlvbiAgPT0gVG9kb0FwcDo6QWN0aW9uOjoiRGVsZXRlIiwKICByZXNvdXJjZSBpcyBUb2RvQXBwOjpUb2RvSXRlbQopCndoZW4gewogIHByaW5jaXBhbCBoYXMgdXNlcmluZm9fdG9rZW4gJiYKICBwcmluY2lwYWwudXNlcmluZm9fdG9rZW4gaGFzIGVtYWlsICYmCiAgcHJpbmNpcGFsLnVzZXJpbmZvX3Rva2VuLmVtYWlsID09IHJlc291cmNlLmF1dGhvcgp9Ow=="
                 }
             },
             "trusted_issuers": {},

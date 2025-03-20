@@ -6,9 +6,9 @@
             "description": "",
             "policies": {
                 "a5595bfa79e2ce63e32b656c09e05837c021a44058fb": {
-                    "description": "Only gluu staff can access todo item details",
+                    "description": "Only gluu staff can and add todo item and view todo item details",
                     "creation_date": "2025-03-20T06:53:30.488317",
-                    "policy_content": "QGlkKCJPbmx5IGdsdXUgc3RhZmYgY2FuIGFjY2VzcyB0b2RvIGl0ZW0gZGV0YWlscyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uICBpbiBbVG9kb0FwcDo6QWN0aW9uOjoiVmlld0RldGFpbHMiLFRvZG9BcHA6OkFjdGlvbjo6IkFkZCJdLAogIHJlc291cmNlIGlzIFRvZG9BcHA6OlRvZG9JdGVtCikKd2hlbiB7CiAgIHByaW5jaXBhbCBoYXMgdXNlcmluZm9fdG9rZW4gJiYKICAgcHJpbmNpcGFsLnVzZXJpbmZvX3Rva2VuIGhhcyBlbWFpbCAmJgogICBwcmluY2lwYWwudXNlcmluZm9fdG9rZW4uZW1haWwgbGlrZSAiKmdsdXUub3JnIgp9Ow=="
+                    "policy_content": "QGlkKCJPbmx5IGdsdXUgc3RhZmYgY2FuIGFuZCBhZGQgdG9kbyBpdGVtIGFuZCB2aWV3IHRvZG8gaXRlbSBkZXRhaWxzIikKcGVybWl0ICgKICBwcmluY2lwYWwgaXMgSmFuczo6VXNlciwKICBhY3Rpb24gIGluIFtUb2RvQXBwOjpBY3Rpb246OiJWaWV3RGV0YWlscyIsCiAgVG9kb0FwcDo6QWN0aW9uOjoiQWRkIl0sCiAgcmVzb3VyY2UgaXMgVG9kb0FwcDo6VG9kb0l0ZW0KKQp3aGVuIHsKICAgcHJpbmNpcGFsIGhhcyB1c2VyaW5mb190b2tlbiAmJgogICBwcmluY2lwYWwudXNlcmluZm9fdG9rZW4gaGFzIGVtYWlsICYmCiAgIHByaW5jaXBhbC51c2VyaW5mb190b2tlbi5lbWFpbCBsaWtlICIqZ2x1dS5vcmciCn07"
                 }
             },
             "trusted_issuers": {},

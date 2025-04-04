@@ -42,7 +42,7 @@
                             "entity_type_name": "Jans::Access_token",
                             "user_id": "email",
                             "token_id": "jti",
-                            "workload_id": "client_id | rp_id",
+                            "workload_id": "client_id",
                             "claim_mapping": {},
                             "required_claims": [
                                 "jti",
@@ -58,29 +58,29 @@
                             ]
                         },
                         "id_token": {
-                            "trusted": true,
+                            "trusted": false,
                             "entity_type_name": "Jans::Id_token",
                             "user_id": "sub",
                             "token_id": "jti",
-                            "role_mapping": "role | group | memberOf",
+                            "role_mapping": "role",
                             "claim_mapping": {},
                             "principal_mapping": [
                                 "Jans::User"
                             ]
                         },
                         "userinfo_token": {
-                            "trusted": true,
+                            "trusted": false,
                             "entity_type_name": "Jans::Userinfo_token",
                             "user_id": "email",
                             "token_id": "jti",
-                            "role_mapping": "role | group | memberOf",
+                            "role_mapping": "role",
                             "claim_mapping": {},
                             "principal_mapping": [
                                 "Jans::User"
                             ]
                         },
                         "tx_token": {
-                            "trusted": true,
+                            "trusted": false,
                             "entity_type_name": "Jans::Access_token",
                             "user_id": "email",
                             "token_id": "jti"

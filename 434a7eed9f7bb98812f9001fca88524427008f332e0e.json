@@ -38,7 +38,7 @@
                     "openid_configuration_endpoint": "https://www.sample.org/file",
                     "tokens_metadata": {
                         "access_token": {
-                            "trusted": true,
+                            "trusted": false,
                             "entity_type_name": "Jans::Access_token",
                             "user_id": "email",
                             "token_id": "jti",

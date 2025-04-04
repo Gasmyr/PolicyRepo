@@ -33,14 +33,14 @@
             },
             "trusted_issuers": {
                 "a47c0bac84b7c2a0685962cc5b2806f3df15ce010761": {
-                    "name": "sample",
+                    "name": "sampleEdited",
                     "description": "testing",
                     "openid_configuration_endpoint": "https://www.sample.org/file",
                     "tokens_metadata": {
-                        "access_tokens": {
+                        "access_token": {
                             "trusted": true,
                             "entity_type_name": "Jans::Access_token",
-                            "user_id": "email | sub | uid",
+                            "user_id": "email",
                             "token_id": "jti",
                             "workload_id": "client_id | rp_id",
                             "claim_mapping": {},
@@ -50,18 +50,17 @@
                                 "aud",
                                 "sub",
                                 "exp",
-                                "nbf",
-                                "some_custom_claim"
+                                "nbf"
                             ],
                             "role_mapping": "role",
                             "principal_mapping": [
                                 "Jans::Workload"
                             ]
                         },
-                        "id_tokens": {
+                        "id_token": {
                             "trusted": true,
                             "entity_type_name": "Jans::Id_token",
-                            "user_id": "email | sub | uid",
+                            "user_id": "sub",
                             "token_id": "jti",
                             "role_mapping": "role | group | memberOf",
                             "claim_mapping": {},
@@ -69,10 +68,10 @@
                                 "Jans::User"
                             ]
                         },
-                        "userinfo_tokens": {
+                        "userinfo_token": {
                             "trusted": true,
                             "entity_type_name": "Jans::Userinfo_token",
-                            "user_id": "email | sub | uid",
+                            "user_id": "email",
                             "token_id": "jti",
                             "role_mapping": "role | group | memberOf",
                             "claim_mapping": {},
@@ -80,10 +79,10 @@
                                 "Jans::User"
                             ]
                         },
-                        "tx_tokens": {
+                        "tx_token": {
                             "trusted": true,
                             "entity_type_name": "Jans::Access_token",
-                            "user_id": "email | sub | uid",
+                            "user_id": "email",
                             "token_id": "jti"
                         }
                     }

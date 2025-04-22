@@ -1,0 +1,6 @@
+@id("My April policy")
+permit (
+  principal,
+  action,
+  resource
+);

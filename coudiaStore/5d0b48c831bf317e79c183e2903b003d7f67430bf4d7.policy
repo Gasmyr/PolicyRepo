@@ -1,6 +1,0 @@
-@id("Just added")
-permit (
-  principal is Jans::User,
-  action,
-  resource
-);

@@ -1,6 +1,0 @@
-@id("Now yes")
-permit (
-  principal,
-  action,
-  resource
-);

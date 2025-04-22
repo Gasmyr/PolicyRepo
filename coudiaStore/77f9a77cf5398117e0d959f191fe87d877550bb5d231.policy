@@ -1,0 +1,6 @@
+@id("Des")
+permit (
+  principal,
+  action,
+  resource
+);

@@ -1,2 +1,0 @@
-@id("now updated")
-permit(principal, action, resource);

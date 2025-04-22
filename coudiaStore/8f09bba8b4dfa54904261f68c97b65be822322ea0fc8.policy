@@ -1,6 +1,0 @@
-@id("Now sample gasmyr")
-permit (
-  principal is coudiaStore::User,
-  action,
-  resource
-);

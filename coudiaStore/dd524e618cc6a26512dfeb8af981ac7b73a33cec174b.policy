@@ -1,6 +1,0 @@
-@id("My April policy")
-permit (
-  principal is coudiaStore::User,
-  action,
-  resource
-);

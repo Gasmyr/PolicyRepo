@@ -1,2 +1,0 @@
-@id("allow user gasmyr full access")
-permit(principal == Jans::User::"gasmyr", action, resource);

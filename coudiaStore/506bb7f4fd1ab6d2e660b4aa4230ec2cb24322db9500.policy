@@ -1,6 +1,0 @@
-@id("My New policy")
-permit (
-  principal,
-  action,
-  resource
-);

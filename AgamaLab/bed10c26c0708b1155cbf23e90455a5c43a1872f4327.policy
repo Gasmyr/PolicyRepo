@@ -1,9 +1,0 @@
-@id("Allow users with AgamaLabAdmin role to view all UI components")
-permit (
-  principal,
-  action == AgamaLab::Action::"View",
-  resource is AgamaLab::UIComponent
-)
-when {
-  principal.role.contains("AgamaLabAdmin")
-};

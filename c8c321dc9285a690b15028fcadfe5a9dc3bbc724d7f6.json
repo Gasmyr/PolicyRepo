@@ -18,7 +18,7 @@
                     "openid_configuration_endpoint": "https://account.gluu.org/.well-known/openid-configuration",
                     "token_metadata": {
                         "access_token": {
-                            "trusted": true,
+                            "trusted": false,
                             "entity_type_name": "Jans::Access_token",
                             "user_id": "sub",
                             "token_id": "jti",
@@ -38,7 +38,7 @@
                             ]
                         },
                         "id_token": {
-                            "trusted": true,
+                            "trusted": false,
                             "entity_type_name": "Jans::id_token",
                             "user_id": "sub",
                             "token_id": "jti",
@@ -49,7 +49,7 @@
                             ]
                         },
                         "userinfo_token": {
-                            "trusted": true,
+                            "trusted": false,
                             "entity_type_name": "Jans::Userinfo_token",
                             "user_id": "sub",
                             "token_id": "jti",
@@ -60,7 +60,7 @@
                             ]
                         },
                         "tx_token": {
-                            "trusted": true,
+                            "trusted": false,
                             "entity_type_name": "Jans::Access_token",
                             "user_id": "sub",
                             "token_id": "jti"

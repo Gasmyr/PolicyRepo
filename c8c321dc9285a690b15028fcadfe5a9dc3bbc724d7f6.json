@@ -15,7 +15,7 @@
                 "5dc895e10c74ba9c4f319f2d2e774751c53d14702b45": {
                     "name": "jansserver",
                     "description": "Jans server IDP",
-                    "openid_configuration_endpoint": "https://account.gluu.org/.well-known/openid-configuration",
+                    "openid_configuration_endpoint": "https://jans-ui.jans.io/.well-known/openid-configuration",
                     "token_metadata": {
                         "access_token": {
                             "trusted": false,

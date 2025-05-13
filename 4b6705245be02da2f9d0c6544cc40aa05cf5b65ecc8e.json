@@ -9,6 +9,11 @@
                     "description": "Describe the policy here",
                     "creation_date": "2025-05-13T11:58:26.897337",
                     "policy_content": "QGlkKCJEZXNjcmliZSB0aGUgcG9saWN5IGhlcmUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpcyBKYW5zOjpVc2VyLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
+                },
+                "37e4766371fbeb7e9494cc00f23498f421b872a9eb44": {
+                    "description": "Allow PUT",
+                    "creation_date": "2025-05-13T12:00:40.612055",
+                    "policy_content": "QGlkKCJBbGxvdyBQVVQiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24gPT0gSmFuczo6QWN0aW9uOjoiUFVUIiwKICByZXNvdXJjZQopOw=="
                 }
             },
             "trusted_issuers": {},

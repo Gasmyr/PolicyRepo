@@ -1,6 +1,0 @@
-@id("Allow PUT")
-permit (
-  principal,
-  action == Jans::Action::"PUT",
-  resource
-);

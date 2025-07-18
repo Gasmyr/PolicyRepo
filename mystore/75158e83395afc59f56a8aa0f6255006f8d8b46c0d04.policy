@@ -1,6 +1,0 @@
-@id("Allow all editors actions on Application resource")
-permit (
-  principal,
-  action in Jans::Action::"EditorActions",
-  resource is Jans::Application
-);

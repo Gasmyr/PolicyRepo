@@ -14,6 +14,11 @@
                     "description": "Describe the policy here",
                     "creation_date": "2025-10-23T21:10:15.310695",
                     "policy_content": "QGlkKCJEZXNjcmliZSB0aGUgcG9saWN5IGhlcmUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
+                },
+                "afa30d3c8afb212c7d582e1b82931ce2286722ba56d0": {
+                    "description": "Another policy",
+                    "creation_date": "2025-10-23T21:12:35.900669",
+                    "policy_content": "QGlkKCJBbm90aGVyIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {

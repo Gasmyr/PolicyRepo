@@ -9,6 +9,11 @@
                     "description": "Allow all actions",
                     "creation_date": "2025-05-06T09:50:21.975286",
                     "policy_content": "QGlkKCJBbGxvdyBhbGwgYWN0aW9ucyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
+                },
+                "f9b526a8db962ba36feda98353ab050aced14633f098": {
+                    "description": "Describe the policy here",
+                    "creation_date": "2025-10-23T21:10:15.310695",
+                    "policy_content": "QGlkKCJEZXNjcmliZSB0aGUgcG9saWN5IGhlcmUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
                 }
             },
             "trusted_issuers": {

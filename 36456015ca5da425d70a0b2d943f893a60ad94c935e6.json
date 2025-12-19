@@ -9,6 +9,11 @@
                     "description": "Describe the policy here",
                     "creation_date": "2025-07-31T11:51:19.552294",
                     "policy_content": "QGlkKCJEZXNjcmliZSB0aGUgcG9saWN5IGhlcmUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
+                },
+                "0a459b4ca8c56baba0ac280e8dff6eb4b20dcef1331b": {
+                    "description": "Describe the policy here",
+                    "creation_date": "2025-12-19T14:04:48.467192",
+                    "policy_content": "QGlkKCJEZXNjcmliZSB0aGUgcG9saWN5IGhlcmUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
                 }
             },
             "trusted_issuers": {},

@@ -1,0 +1,6 @@
+@id("someone")
+permit (
+  principal,
+  action,
+  resource
+);

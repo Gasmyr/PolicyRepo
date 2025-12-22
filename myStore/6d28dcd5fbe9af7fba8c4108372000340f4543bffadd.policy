@@ -1,6 +1,0 @@
-@id("Describe")
-permit (
-  principal,
-  action,
-  resource
-);

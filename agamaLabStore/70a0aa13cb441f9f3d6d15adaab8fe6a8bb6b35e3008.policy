@@ -1,6 +1,0 @@
-@id("Allow all actions")
-permit (
-  principal,
-  action,
-  resource
-);

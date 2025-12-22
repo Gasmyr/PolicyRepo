@@ -1,6 +1,0 @@
-@id("Another policy")
-permit (
-  principal is Jans::User,
-  action,
-  resource
-);

@@ -13,7 +13,7 @@
                 "1ada4ceabb490071c7d2e2eef8f3a3ac4fe6405e1664": {
                     "description": "Another policy",
                     "creation_date": "2025-12-22T08:28:14.123798",
-                    "policy_content": "QGlkKCJBbm90aGVyIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
+                    "policy_content": "QGlkKCJBbm90aGVyIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uLAogIHJlc291cmNlIGlzIEphbnM6OkFwcGxpY2F0aW9uCik7"
                 }
             },
             "trusted_issuers": {},

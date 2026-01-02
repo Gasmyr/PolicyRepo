@@ -11,9 +11,9 @@
                     "policy_content": "QGlkKCJBbGxvdyBhbGwiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
                 },
                 "0ba5416748291db5021caa822ba80dc8e4d257927840": {
-                    "description": "Sample",
+                    "description": "Sample updated",
                     "creation_date": "2026-01-02T12:29:44.745491",
-                    "policy_content": "QGlkKCJTYW1wbGUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpcyBKYW5zOjpVc2VyLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
+                    "policy_content": "QGlkKCJTYW1wbGUgdXBkYXRlZCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {},

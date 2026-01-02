@@ -1,0 +1,6 @@
+@id("Sample")
+permit (
+  principal is Jans::User,
+  action,
+  resource
+);

@@ -1,4 +1,4 @@
-@id("Sample")
+@id("Sample updated")
 permit (
   principal is Jans::User,
   action,
